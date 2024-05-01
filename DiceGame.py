@@ -3,7 +3,7 @@ import random
 from colorama import Fore
 import os
 
-os.system('title Dice Game V1 @ Rotenda Sino')
+os.system('title Dice Game V1 @ oNxZero')
 
 SL = "-----------------------------------------------"
 
